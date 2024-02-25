@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>facebook</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-Navigation-/-Footer-/-FDS-768" transform="translate(-481.000000, -624.000000)">
+            <g id="Social-bar" transform="translate(0.000000, 552.000000)">
+                <g id="Social-Icons" transform="translate(481.000000, 32.000000)">
+                    <g id="facebook" transform="translate(0.000000, 40.000000)">
+                        <polygon id="Fill-230" fill="#5071AA" points="0 0 40 0 40 40 0 40"></polygon>
+                        <path d="M24.8677148,17.3216411 L22.1861723,17.3216411 L22.1861723,15.5609528 C22.1861723,14.8996263 22.6237573,14.7452456 22.9316678,14.7452456 L24.8239563,14.7452456 L24.8239563,11.8392552 L22.2181907,11.8285714 C19.324793,11.8285714 18.6662809,13.996312 18.6662809,15.3841361 L18.6662809,17.3216411 L16.9933185,17.3216411 L16.9933185,20.3163069 L18.6662809,20.3163069 L18.6662809,28.7912218 L22.1861723,28.7912218 L22.1861723,20.3163069 L24.560338,20.3163069 L24.8677148,17.3216411" id="Fill-231" fill="#FFFFFE"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
